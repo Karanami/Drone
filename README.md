@@ -20,7 +20,9 @@ https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgA
 		- (4 041,89 PLN tax inc.)	[Connect Tech Elroy Carrier](https://kamami.pl/akcesoria-nvidia-jetson/574864-elroy-carrier-plyta-bazowa-dla-nvidia-jetson-tx1tx2tx2i.html)
 	- WiFi
 		- (209,29 PLN tax inc.) 	[Intel WiFi AC7260](https://www.tonitrus.com/pl/sprz-281-t-sieciowy/akcesoria/others-4/10199759-003-intel-7260.hmwwb.r-intel-dual-band-wireless-ac-7260-netzwerkadapter/?number=10199759-003&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNR4Zg_wnkB5KAeg0ky_vk1LLJ1W760kkDMXtG9wtU1wjDaZP-971YRoCOKgQAvD_BwE)
-- Jetson Components --
+- Jetson Components
 	- Carier Board
 		- (982,97 PLN tax inc.) 	[Connect Tech Sprocket Carrier](https://kamami.pl/nvidia-jetson/577581-sprocket-carrier-plyta-bazowa-dla-nvidia-jetson-tx1tx2tx2i-asg0008.html)
 		- (1 131,39 PLN tax exc.) 	[Auvidea J100-IMU](https://www.mouser.pl/ProductDetail/Auvidea/70702?qs=EU6FO9ffTwdHIkn%2FeQ7%2FcQ%3D%3D)
+- Motor Controller / ESC
+	- (79,40 PLN x 4 tax exc.)		[ST B-G431B-ESC1](https://www.mouser.pl/ProductDetail/STMicroelectronics/B-G431B-ESC1?qs=%252B6g0mu59x7KUfhaFDGurZQ%3D%3D&mgh=1&vip=1&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNdf6RitS_cHawTvKrOvMl0w4W69snSuc4eCCCw5a2GVGfBZqjqGNZxoCQs4QAvD_BwE)
