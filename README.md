@@ -26,4 +26,4 @@ https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgA
 		- (1 131,39 PLN tax exc.) 	[Auvidea J100-IMU](https://www.mouser.pl/ProductDetail/Auvidea/70702?qs=EU6FO9ffTwdHIkn%2FeQ7%2FcQ%3D%3D)
 - Motor Controller / ESC
 	- (79,40 PLN x 4 tax exc.)		[ST B-G431B-ESC1](https://www.mouser.pl/ProductDetail/STMicroelectronics/B-G431B-ESC1?qs=%252B6g0mu59x7KUfhaFDGurZQ%3D%3D&mgh=1&vip=1&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNdf6RitS_cHawTvKrOvMl0w4W69snSuc4eCCCw5a2GVGfBZqjqGNZxoCQs4QAvD_BwE)
-   	- (115,00 EUR tax inc.)			[Hobbywing XRotor 65A FPV 4in1 ESC](https://shop.robitronic.com/en/hobbywing-xrotor-65a-fpv-4in1-esc-hw30902064), [manual](https://www.hobbywing.com/en/uploads/file/20230113/a97ade00854e1f1a4a1f7aa1dd9f499f.pdf)
+   	- (115,00/98,00 EUR tax inc.)			[Hobbywing XRotor 65A FPV 4in1 ESC](https://shop.robitronic.com/en/hobbywing-xrotor-65a-fpv-4in1-esc-hw30902064), [taniej](https://www.monsterhopups.de/Hobbywing-HW30902064-XRotor-65A-FPV-4in1-controller?gad_source=1), [manual](https://www.hobbywing.com/en/uploads/file/20230113/a97ade00854e1f1a4a1f7aa1dd9f499f.pdf)
