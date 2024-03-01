@@ -27,3 +27,7 @@ https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgA
 - Motor Controller / ESC
 	- (79,40 PLN x 4 tax exc.)		[ST B-G431B-ESC1](https://www.mouser.pl/ProductDetail/STMicroelectronics/B-G431B-ESC1?qs=%252B6g0mu59x7KUfhaFDGurZQ%3D%3D&mgh=1&vip=1&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNdf6RitS_cHawTvKrOvMl0w4W69snSuc4eCCCw5a2GVGfBZqjqGNZxoCQs4QAvD_BwE)
    	- (115,00/98,00 EUR tax inc.)			[Hobbywing XRotor 65A FPV 4in1 ESC](https://shop.robitronic.com/en/hobbywing-xrotor-65a-fpv-4in1-esc-hw30902064), [taniej](https://www.monsterhopups.de/Hobbywing-HW30902064-XRotor-65A-FPV-4in1-controller?gad_source=1), [manual](https://www.hobbywing.com/en/uploads/file/20230113/a97ade00854e1f1a4a1f7aa1dd9f499f.pdf)
+- Flight Controller
+	- (82 USD tax inc. (China))		[Holybro Kakute H7 Mini](https://rcdrone.top/pl/products/holybro-kakute-h7-mini-flight-controller)
+   	- (124 USD tax ?. (US))			[RADIX 2 HD](https://www.brainfpv.com/product/radix-2-hd-flight-controller/)
+   	- (474 PLN (Poland))			[MATEK H743-SLIM V3](https://rcmaniak.pl/pl/p/MATEK-H743-SLIM-V3-Flight-Controller/4860)
