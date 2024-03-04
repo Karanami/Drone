@@ -32,3 +32,7 @@ https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgA
 	- (82 USD tax inc. (China))		[Holybro Kakute H7 Mini](https://rcdrone.top/pl/products/holybro-kakute-h7-mini-flight-controller)
    	- (124 USD tax ?. (US))			[RADIX 2 HD](https://www.brainfpv.com/product/radix-2-hd-flight-controller/)
    	- (474 PLN (Poland))			[MATEK H743-SLIM V3](https://rcmaniak.pl/pl/p/MATEK-H743-SLIM-V3-Flight-Controller/4860)
+  - Camera
+    	- (354.00 USD tax exc.) 		[Intel® RealSense™ Depth Camera D435if](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435if.html)
+    	- (439.00 USD tax exc.)			[Intel® RealSense™ Depth Camera D455f](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435if.html)
+	- (999.99 USD tax exc.)			[VOXL CAM](https://www.modalai.com/products/voxl-cam?variant=39543794565171)
