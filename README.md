@@ -5,6 +5,8 @@
 
 [Nasa - Propeller Thrust](https://www.grc.nasa.gov/www/k-12/airplane/propth.html)
 
+[Nasa - Lift from Pressure-Area](https://www.grc.nasa.gov/www/k-12/airplane/right1.html)
+
 ## Examples
 https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgACK7QmBO3bFkuIhZuQ32Rum8L1Q
 
