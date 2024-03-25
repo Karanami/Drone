@@ -7,6 +7,8 @@
 
 [Nasa - Lift from Pressure-Area](https://www.grc.nasa.gov/www/k-12/airplane/right1.html)
 
+[Latency Analysis of a Bluetooth 5](https://www.mdpi.com/1424-8220/22/21/8360)
+
 ## Examples
 https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgACK7QmBO3bFkuIhZuQ32Rum8L1Q
 
