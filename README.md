@@ -45,3 +45,7 @@ https://github.com/uzh-rpg/agilicious?fbclid=IwAR2q9eGqMs4E7-E5SJAdLp8aYflhKtZgA
    	- (134.44 PLN tax inc.)			[HSKRC XL5/6/7/8/9](https://www.banggood.com/HSKRC-XL5-or-6-or-7-or-8-or-9-232-or-283-or-294-or-360-or-390mm-Carbon-Fiber-FPV-Racing-Frame-kit-for-RC-Drone-p-1478432.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=PL&utm_content=minha&utm_campaign=aceng-pmax-pl-en-pc&currency=PLN&cur_warehouse=HK&createTmp=1&ID=558010&utm_source=googleshopping&utm_medium=cpc_eu&utm_content=dcr&utm_campaign=aceng-pmax-pl-cz-level-1-cae-240221&ad_id=&gad_source=1&gclid=CjwKCAiAxaCvBhBaEiwAvsLmWOpAvZt1ZDhFDNaPjovfBQjcCQiv1qSnDtPF0YRpf-rQnqNSUxIw3BoCm90QAvD_BwE)
    	- (532.00 PLN tax inc.)			[Foxeer Mega 7''](https://rcmaniak.pl/pl/p/Foxeer-MEGA-7-FR-DC-Frame/5553)
    	- (349.00 PLN tax inc.)			[Foxeer Aura Deadcat Pro 6''](https://rcmaniak.pl/pl/p/Foxeer-Aura-Deadcat-Pro-6-Freestyle-Frame-T700/5045)
+- Motor
+  	- (97.00 PLN tax inc.) 			[iFlight XING 2 2207 1855KV Motor Unibell](https://rcmaniak.pl/pl/p/iFlight-XING-2-2207-1855KV-Motor-Unibell/4633)
+- Telemetry
+  	- (77,90 PLN tax inc.)			[nRF52840](https://botland.com.pl/moduly-radiowe/14893-nrf52840-modul-komunikacyjny-bluetooth-zigbee-radiowy-usb-5904422301163.html?cd=18298825138&ad=&kd=&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fivSrG-Efq91beFcpe55ZkCfxbcIYlIwudmiiJGWX6_Zjixx8S1_VwaAlxAEALw_wcB&fbclid=IwAR1QAS1s9Tmtby0waf-6bU0QFd0boBmGjH4d6wlFi1-4cOsQnrSOwiAhgbM#)
